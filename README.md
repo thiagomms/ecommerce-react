@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+# Ecommerce React App
+
+<div align="center">
+  <img src="[https://user-images.githubusercontent.com/64506852/220224137-219d5342-44ba-42d6-b8ef-726607519d93.jpeg](https://thiagomms.netlify.app/img/gif-ecomerce.gif)" width="20%">  
+</div>
+
+<br>
+
+
+Link para o projeto: `https://ecommerce-react-thiagomms-demo.netlify.app/`
+
+
+Nesse projeto utilizei ReactJS com API Fake Store (e a biblioteca de componentes React Bootstrap - Tailwind CSS) para criar uma aplicação relacionada a um e-commerce, o carrinho da aplicação foi implementado de forma dinâmica, com os estados pondendo ser atualizados por diferentes componentes.
+
+Fake Store API
+Tailblocks - Tailblocks permite que você use blocos pré-fabricados Tailwind CSS e os use em qualquer plataforma
+
+`https://fakestoreapi.com/`
+`https://tailblocks.cc/`
+
+O projeto possui forte tipagem e usa de funções próprias para a fotamatação da estrutura visual, como a função para formatar o valor monetário, acrescentei também validações em relação a visualização do carrinho de compras estando vazio.
+
+
+- `npm` ou `yarn` para instalar as dependências da aplicação;
+- `npm start` ou `yarn start` para rodar o projeto.
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -27,21 +54,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-Link para o projeto: `https://ecommerce-react-thiagomms-demo.netlify.app/`
-
-
-Nesse projeto utilizei ReactJS com API Fake Store (e a biblioteca de componentes React Bootstrap - Tailwind CSS) para criar uma aplicação relacionada a um e-commerce, o carrinho da aplicação foi implementado de forma dinâmica, com os estados pondendo ser atualizados por diferentes componentes.
-
-Fake Store API
-Tailblocks - Tailblocks permite que você use blocos pré-fabricados Tailwind CSS e os use em qualquer plataforma
-
-`https://fakestoreapi.com/`
-`https://tailblocks.cc/`
-
-O projeto possui forte tipagem e usa de funções próprias para a fotamatação da estrutura visual, como a função para formatar o valor monetário, acrescentei também validações em relação a visualização do carrinho de compras estando vazio.
-
-
-- `npm` ou `yarn` para instalar as dependências da aplicação;
-- `npm start` ou `yarn start` para rodar o projeto.
 
 
