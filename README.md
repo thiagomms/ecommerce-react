@@ -1,7 +1,7 @@
 # Ecommerce React App
 
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/64506852/220224137-219d5342-44ba-42d6-b8ef-726607519d93.jpeg](https://thiagomms.netlify.app/img/gif-ecomerce.gif)" width="20%">  
+  <img src="[https://thiagomms.netlify.app/img/gif-ecomerce.gif]" width="20%">  
 </div>
 
 <br>
