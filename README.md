@@ -1,7 +1,7 @@
 # Ecommerce React App
 
-<div align="center">
-  <img src="[https://thiagomms.netlify.app/img/gif-ecomerce.gif]" width="20%">  
+<div align="center">  
+<img src="https://thiagomms.netlify.app/img/gif-ecomerce.gif" width="20%">  
 </div>
 
 <br>
