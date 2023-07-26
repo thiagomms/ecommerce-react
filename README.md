@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://thiagomms.netlify.app/img/gif-ecomerce.gif" width="20%">
-  <img src="https://user-images.githubusercontent.com/64506852/220224147-b78a3887-ca12-47b5-9bd3-a861d1fb6e75.jpeg" width="20%">
+  
 </div>
 
 <br>
