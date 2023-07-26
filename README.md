@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/thiagomms/ecommerce-react/blob/main/gif-ecomerce.gif" width="20%">
+  <img src="https://github.com/thiagomms/ecommerce-react/blob/main/gif-ecomerce.gif" width="100%">
   
 </div>
 
